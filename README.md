@@ -64,7 +64,7 @@
 | 2 | Find Max and Min Element | Easy | ✓ | ✓ | - | [Link](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) |
 | 3 | Kth Largest/Smallest Element | Medium | ✓ | ✓ | [Link](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Link](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) |
 | 4 | Missing Number | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/missing-number/) | [Link](https://www.geeksforgeeks.org/find-the-missing-number/) |
-| 5 | Maximum Consecutive Ones | Easy | ✓ | - | [Link](https://leetcode.com/problems/max-consecutive-ones/) | - |
+| 5 | Maximum Consecutive Ones | Easy | ✓ | - | [Link](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) | - |
 | 6 | Count Elements with Both Smaller and Greater | Medium | - | ✓ | - | Custom |
 | 7 | Minimum Time to Equalize Array Elements | Medium | - | - | - | [Link](https://www.geeksforgeeks.org/problems/equalize-an-array3405/) |
 | 8 | Difference Between Max Even and Min Odd | Medium | - | - | - | Custom |
