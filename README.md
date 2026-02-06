@@ -85,7 +85,7 @@
 | 8 | Valid Palindrome | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/valid-palindrome/) | - |
 | 9 | Squares of Sorted Array | Easy | ✓ | - | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/) | - |
 | 10 | Three Numbers With Sum Closest to Target | Medium | - | - |[Link](https://leetcode.com/problems/3sum-closest/description/) | - |
-| 11 | Minimum Absolute Difference from Three Arrays | Hard | - | - | - | Custom |
+| 11 | Minimum Absolute Difference from Three Arrays | Hard | - | - | - | [Link](https://www.interviewbit.com/problems/minimize-the-absolute-difference/)|
 | 12 | Closest Pair Sum From Two Sorted Arrays | Medium | - | - | - | Custom |
 
 ### **Pattern 1.3: Sliding Window**
