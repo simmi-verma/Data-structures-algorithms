@@ -84,7 +84,7 @@
 | 7 | Container With Most Water | Medium | ✓ | - | [Link](https://leetcode.com/problems/container-with-most-water/) | - |
 | 8 | Valid Palindrome | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/valid-palindrome/) | - |
 | 9 | Squares of Sorted Array | Easy | ✓ | - | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/) | - |
-| 10 | Three Numbers With Sum Closest to Target | Medium | - |[Link](https://leetcode.com/problems/3sum-closest/description/)| - | Custom |
+| 10 | Three Numbers With Sum Closest to Target | Medium | - | - |[Link](https://leetcode.com/problems/3sum-closest/description/) | - |
 | 11 | Minimum Absolute Difference from Three Arrays | Hard | - | - | - | Custom |
 | 12 | Closest Pair Sum From Two Sorted Arrays | Medium | - | - | - | Custom |
 
