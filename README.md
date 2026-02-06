@@ -1,10 +1,6 @@
-# 🚀 MEGA DSA MASTERY ROADMAP - 1000+ Questions
+
 ## Striver A2Z + Love Babbar 450 + Additional Premium Questions
-
-**Total Questions: 1000+**
-**Coverage: All Companies (FAANG, Microsoft, Adobe, Amazon, Google, Meta)**
-
----
+--
 
 ## 📑 Table of Contents
 
@@ -84,7 +80,7 @@
 | 3 | 4Sum | Medium | ✓ | - | [Link](https://leetcode.com/problems/4sum/) | [Link](https://www.geeksforgeeks.org/find-four-numbers-with-sum-equal-to-given-sum/) |
 | 4 | Remove Duplicates from Sorted Array | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | - |
 | 5 | Sort 0s, 1s, 2s (Dutch National Flag) | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/sort-colors/) | [Link](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/) |
-| 6 | Move Negatives to One Side | Easy | - | ✓ | - | [Link](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) |
+| 6 | Move Negatives to One Side | Easy | - | ✓ | - | [Link](https://www.geeksforgeeks.org/problems/move-all-negative-elements-to-end1813/1) |
 | 7 | Container With Most Water | Medium | ✓ | - | [Link](https://leetcode.com/problems/container-with-most-water/) | - |
 | 8 | Valid Palindrome | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/valid-palindrome/) | - |
 | 9 | Squares of Sorted Array | Easy | ✓ | - | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/) | - |
