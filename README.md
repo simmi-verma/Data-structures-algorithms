@@ -70,7 +70,7 @@
 | 4 | Missing Number | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/missing-number/) | [Link](https://www.geeksforgeeks.org/find-the-missing-number/) |
 | 5 | Maximum Consecutive Ones | Easy | ✓ | - | [Link](https://leetcode.com/problems/max-consecutive-ones/) | - |
 | 6 | Count Elements with Both Smaller and Greater | Medium | - | ✓ | - | Custom |
-| 7 | Minimum Time to Equalize Array Elements | Medium | - | - | - | Custom |
+| 7 | Minimum Time to Equalize Array Elements | Medium | - | - | - | [Link](https://www.geeksforgeeks.org/problems/equalize-an-array3405/) |
 | 8 | Difference Between Max Even and Min Odd | Medium | - | - | - | Custom |
 | 9 | Update Array with Multiplication of Neighbors | Medium | - | - | - | Custom |
 | 10 | Print Number Pattern | Easy | - | - | - | Custom |
