@@ -530,8 +530,8 @@
 | # | Problem | Difficulty | Striver | Babbar | LeetCode |
 |---|---------|------------|---------|--------|----------|
 | 1 | Binary Search | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/binary-search/) |
-| 2 | Lower Bound | Easy | ✓ | - | Custom |
-| 3 | Upper Bound | Easy | ✓ | - | Custom |
+| 2 | Lower Bound | Easy | ✓ | - | [link](https://www.geeksforgeeks.org/dsa/implement-lower-bound/) |
+| 3 | Upper Bound | Easy | ✓ | - | [link](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)|
 | 4 | Search Insert Position | Easy | ✓ | - | [Link](https://leetcode.com/problems/search-insert-position/) |
 | 5 | First and Last Position | Medium | ✓ | ✓ | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
 | 6 | Count Occurrences | Easy | ✓ | ✓ | Custom |
