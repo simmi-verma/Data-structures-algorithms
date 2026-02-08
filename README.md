@@ -534,7 +534,7 @@
 | 3 | Upper Bound | Easy | ✓ | - | [link](https://www.geeksforgeeks.org/problems/implement-upper-bound/1)|
 | 4 | Search Insert Position | Easy | ✓ | - | [Link](https://leetcode.com/problems/search-insert-position/) |
 | 5 | First and Last Position | Medium | ✓ | ✓ | [Link](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |
-| 6 | Count Occurrences | Easy | ✓ | ✓ | Custom |
+| 6 | Count Occurrences | Easy | ✓ | ✓ |[Link](https://www.geeksforgeeks.org/problems/number-of-occurrence2259/1)|
 | 7 | Single Element in Sorted Array | Medium | ✓ | - | [Link](https://leetcode.com/problems/single-element-in-a-sorted-array/) |
 | 8 | Find Peak Element | Medium | ✓ | ✓ | [Link](https://leetcode.com/problems/find-peak-element/) |
 
