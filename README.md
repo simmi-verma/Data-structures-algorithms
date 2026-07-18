@@ -71,22 +71,39 @@
 | 9 | Update Array with Multiplication of Neighbors | Medium | - | - | - | Custom |
 | 10 | Print Number Pattern | Easy | - | - | - | Custom |
 
-### **Pattern 1.2: Two Pointers**
+## Pattern 1.2: Two Pointers
 
 | # | Problem | Difficulty | Striver | Babbar | LeetCode | GFG |
-|---|---------|------------|---------|--------|----------|-----|
-| 1 | Two Sum | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/two-sum/) | [Link](https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/) |
-| 2 | 3Sum | Medium | ✓ | ✓ | [Link](https://leetcode.com/problems/3sum/) | [Link](https://www.geeksforgeeks.org/find-a-triplet-that-sum-to-a-given-value/) |
-| 3 | 4Sum | Medium | ✓ | - | [Link](https://leetcode.com/problems/4sum/) | [Link](https://www.geeksforgeeks.org/find-four-numbers-with-sum-equal-to-given-sum/) |
-| 4 | Remove Duplicates from Sorted Array | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | - |
-| 5 | Sort 0s, 1s, 2s (Dutch National Flag) | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/sort-colors/) | [Link](https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/) |
-| 6 | Move Negatives to One Side | Easy | - | ✓ | - | [Link](https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/) |
-| 7 | Container With Most Water | Medium | ✓ | - | [Link](https://leetcode.com/problems/container-with-most-water/) | - |
-| 8 | Valid Palindrome | Easy | ✓ | ✓ | [Link](https://leetcode.com/problems/valid-palindrome/) | - |
-| 9 | Squares of Sorted Array | Easy | ✓ | - | [Link](https://leetcode.com/problems/squares-of-a-sorted-array/) | - |
-| 10 | Three Numbers With Sum Closest to Target | Medium | - | - |[Link](https://leetcode.com/problems/3sum-closest/description/) | - |
-| 11 | Minimum Absolute Difference from Three Arrays | Hard | - | - | - | [Link](https://www.interviewbit.com/problems/minimize-the-absolute-difference/)|
-| 12 | Closest Pair Sum From Two Sorted Arrays | Medium | - | - | - | [Link](https://www.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1)|
+|---|---------|------------|---------|---------|----------|-----|
+| 1 | Two Sum | Easy | ✓ | ✓ | https://leetcode.com/problems/two-sum/ | https://www.geeksforgeeks.org/given-an-array-a-and-a-number-x-check-for-pair-in-a-with-sum-as-x/ |
+| 2 | Valid Palindrome | Easy | ✓ | ✓ | https://leetcode.com/problems/valid-palindrome/ | - |
+| 3 | Reverse String | Easy | ✓ | ✓ | https://leetcode.com/problems/reverse-string/ | https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/ |
+| 4 | Merge Sorted Array | Easy | ✓ | ✓ | https://leetcode.com/problems/merge-sorted-array/ | https://www.geeksforgeeks.org/merge-two-sorted-arrays/ |
+| 5 | Remove Duplicates from Sorted Array | Easy | ✓ | ✓ | https://leetcode.com/problems/remove-duplicates-from-sorted-array/ | https://www.geeksforgeeks.org/problems/remove-duplicate-elements-from-sorted-array/1 |
+| 6 | Remove Element | Easy | ✓ | ✓ | https://leetcode.com/problems/remove-element/ | - |
+| 7 | Move Zeroes | Easy | ✓ | ✓ | https://leetcode.com/problems/move-zeroes/ | https://www.geeksforgeeks.org/problems/move-all-zeroes-to-end-of-array0751/1 |
+| 8 | Move Negatives to One Side | Easy | - | ✓ | - | https://www.geeksforgeeks.org/move-negative-numbers-beginning-positive-end-constant-extra-space/ |
+| 9 | Squares of a Sorted Array | Easy | ✓ | - | https://leetcode.com/problems/squares-of-a-sorted-array/ | - |
+| 10 | Backspace String Compare | Easy | ✓ | - | https://leetcode.com/problems/backspace-string-compare/ | - |
+| 11 | Pair with Given Sum in Sorted Array (Two Sum II) | Easy | ✓ | ✓ | https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/ | https://www.geeksforgeeks.org/problems/key-pair5616/1 |
+| 12 | Sort Colors (Dutch National Flag) | Medium | ✓ | ✓ | https://leetcode.com/problems/sort-colors/ | https://www.geeksforgeeks.org/sort-an-array-of-0s-1s-and-2s/ |
+| 13 | Container With Most Water | Medium | ✓ | ✓ | https://leetcode.com/problems/container-with-most-water/ | https://www.geeksforgeeks.org/problems/container-with-most-water0535/1 |
+| 14 | 3Sum | Medium | ✓ | ✓ | https://leetcode.com/problems/3sum/ | https://www.geeksforgeeks.org/problems/triplet-sum-in-array-1587115621/1 |
+| 15 | 3Sum Closest | Medium | ✓ | - | https://leetcode.com/problems/3sum-closest/ | https://www.geeksforgeeks.org/problems/3-sum-closest/1 |
+| 16 | Count Triplets with Given Sum | Medium | - | - | - | https://www.geeksforgeeks.org/problems/count-the-triplets4615/1 |
+| 17 | 4Sum | Medium | ✓ | - | https://leetcode.com/problems/4sum/ | https://www.geeksforgeeks.org/find-four-numbers-with-sum-equal-to-given-sum/ |
+| 18 | Boats to Save People | Medium | - | - | https://leetcode.com/problems/boats-to-save-people/ | - |
+| 19 | Bag of Tokens | Medium | - | - | https://leetcode.com/problems/bag-of-tokens/ | - |
+| 20 | Partition Labels | Medium | ✓ | - | https://leetcode.com/problems/partition-labels/ | - |
+| 21 | Closest Pair from Two Sorted Arrays | Medium | - | - | - | https://www.geeksforgeeks.org/problems/find-the-closest-pair-from-two-arrays4215/1 |
+| 22 | Find Pair with Given Difference | Medium | - | - | - | https://www.geeksforgeeks.org/problems/find-pair-given-difference1559/1 |
+| 23 | Count Pairs with Given Sum | Medium | - | - | - | https://www.geeksforgeeks.org/problems/count-pairs-with-given-sum5022/1 |
+| 24 | Intersection of Two Sorted Arrays | Easy | ✓ | ✓ | https://leetcode.com/problems/intersection-of-two-arrays-ii/ | https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-array-1587115620/1 |
+| 25 | Union of Two Sorted Arrays | Easy | ✓ | ✓ | - | https://www.geeksforgeeks.org/problems/union-of-two-sorted-arrays-1587115621/1 |
+| 26 | Trapping Rain Water | Hard | ✓ | ✓ | https://leetcode.com/problems/trapping-rain-water/ | https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1 |
+| 27 | Shortest Unsorted Continuous Subarray | Medium | - | - | https://leetcode.com/problems/shortest-unsorted-continuous-subarray/ | - |
+| 28 | Minimum Number of Moves to Make Palindrome | Hard | - | - | https://leetcode.com/problems/minimum-number-of-moves-to-make-palindrome/ | - |
+| 29 | Minimize the Absolute Difference from Three Arrays | Hard | - | - | - | https://www.interviewbit.com/problems/minimize-the-absolute-difference/ |
 
 ### **Pattern 1.3: Sliding Window**
 
